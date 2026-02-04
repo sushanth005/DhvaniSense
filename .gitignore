@@ -1,0 +1,8 @@
+# CRITICAL FOR DEPLOYMENT
+venv/
+data/
+models/
+__pycache__/
+*.pt
+*.bin
+.env
