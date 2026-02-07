@@ -103,6 +103,8 @@ DhvaniSense/
 
 # 🔧 Installation Setup
 
+Dataset is uploaded as data/data.zip to keep the repository lightweight and maintain clean folder structure.
+
 ## 1️⃣ Clone Repository
 
 ```bash
@@ -393,4 +395,5 @@ Run the pipeline in order:
 ✅ Paths → Data Check → Train → Validate → Report → Run API → Test API
 
 Then DhvaniSense will work smoothly 🚀
+
 
