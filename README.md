@@ -290,7 +290,7 @@ Run Docker Container
 docker run -p 8000:8000 dhvanisense
 Now open:
 
-http://127.0.0.1:8000/docs
+http://20.219.98.49:8000/docs
 ☁️ Cloud Deployment
 DhvaniSense can be deployed on:
 
@@ -395,5 +395,6 @@ Run the pipeline in order:
 ✅ Paths → Data Check → Train → Validate → Report → Run API → Test API
 
 Then DhvaniSense will work smoothly 🚀
+
 
 
